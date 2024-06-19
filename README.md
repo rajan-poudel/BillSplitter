@@ -1,16 +1,18 @@
-# myapp
+Simplify bill management with Bill Splitter v1.0, a sleek and efficient Flutter app designed for hassle-free expense division among friends and groups. 
 
-A new Flutter project.
+# Features:
+* Calculate bills and tips with precision
+* Split expenses evenly among friends
+* Intuitive interface for easy navigation and use
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
+## Loading Screen
+![IMG-20240619-WA0001](https://github.com/rajan-poudel/BillSplitter/assets/117752332/a5a82271-f624-49f7-9df6-ec745da415e0)
 
-A few resources to get you started if this is your first Flutter project:
+## Home
+![IMG-20240619-WA0003](https://github.com/rajan-poudel/BillSplitter/assets/117752332/168e67ba-c47f-40db-bd69-bc94d37db8c2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Result
+![IMG-20240619-WA0002](https://github.com/rajan-poudel/BillSplitter/assets/117752332/aca14ed5-3cf2-4e83-ada7-8b54b7c25a06)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
